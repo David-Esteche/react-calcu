@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-calcu/static/css/main.1908843f.css",
+    "main.js": "/react-calcu/static/js/main.ebc0be08.js",
+    "static/media/reactlogo.png": "/react-calcu/static/media/reactlogo.cb8eb5382169e3b8499d.png",
+    "static/media/reactFondo.jpg": "/react-calcu/static/media/reactFondo.c3b560cccb8bc5a1ce45.jpg",
+    "index.html": "/react-calcu/index.html",
+    "main.1908843f.css.map": "/react-calcu/static/css/main.1908843f.css.map",
+    "main.ebc0be08.js.map": "/react-calcu/static/js/main.ebc0be08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1908843f.css",
+    "static/js/main.ebc0be08.js"
+  ]
+}
